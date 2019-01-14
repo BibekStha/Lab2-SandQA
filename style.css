@@ -1,0 +1,17 @@
+h1{
+	font-family: 'Brandon Grotesque Light', sans-serif;
+	text-transform: uppercase;
+}
+#navigation li{
+	display:inline-block;
+	list-style-type:none;
+	vertical-align:top;
+	margin-left:1em;
+}
+p{
+	font-family: 'Brandon Grotesque Light', sans-serif;
+}
+h3{
+	font-family: 'Brandon Grotesque Light', sans-serif;
+	color:#d29c25;
+}
